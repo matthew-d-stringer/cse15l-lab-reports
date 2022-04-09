@@ -2,6 +2,9 @@
 
 This is a **test** *index.md* file!
 
+## Links
+[ Lab Report 1 ](lab-report-1-week-2.html)
+
 ## Author
 This page is written by Matthew Stringer of UCSD. 
 
