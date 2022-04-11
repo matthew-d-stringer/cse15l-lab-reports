@@ -1,23 +1,27 @@
 # This is the Index File!
 
-This is a **test** *index.md* file!
+This is a **test** _index.md_ file!
 
 ## Links
-[ Lab Report 1 ](lab-report-1-week-2.html)
+
+[ Lab Report 1 ](reports/lab-report-1-week-2.html)
 
 ## Author
-This page is written by Matthew Stringer of UCSD. 
+
+This page is written by Matthew Stringer of UCSD.
 
 ### Interests
+
 I'm fascinated by:
+
 1. control system engineering
-    - Pole Placement
-    - LQR
+   - Pole Placement
+   - LQR
 1. web development
-    - JavaScript with React.js
-    - SQL
+   - JavaScript with React.js
+   - SQL
 1. software development
-    - Java development
+   - Java development
 
 Check out this cool image!
 
@@ -26,9 +30,11 @@ Check out this cool image!
 ---
 
 ## Other stuff
+
 This page has a test page, go check it out!
 
 [Test Page](https://mdsflyboy.github.io/cse15l-lab-reports/test.html)
 
 Here is a quote from that page
-> This **file** is added to *test* the functionality of adding new pages to Github pages.
+
+> This **file** is added to _test_ the functionality of adding new pages to Github pages.
