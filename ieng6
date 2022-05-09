@@ -1,0 +1,27 @@
+# Lab Report 3
+
+## Streamlining your ssh Configuration
+Assuming you're on windows, open Git Bash.
+If you're familiar with vim editor, you can edit your ssh
+configuration with the command:
+
+    vim ~/.ssh/config
+
+Next, edit or add the host ieng6 such that the config file
+will look like the following (except with a different username)
+
+![Image](./report3resources/config.png)
+
+Now all you need to login is run the followign command
+
+    ssh ieng6
+
+You should see an output similar to:
+
+![Image](./report3resources/sshIeng6.png)
+
+Isn't this so much easier than typing in that 
+super long command!
+
+This also works for `scp` as well:
+
