@@ -5,8 +5,11 @@ This is a **test** _index.md_ file!
 ## Links
 
 [ Lab Report 1 ](reports/lab-report-1-week-2.html)
+
 [ Lab Report 2 ](reports/lab-report-2-week-4.html)
+
 [ Lab Report 3 ](reports/lab-report-3-week-6.html)
+
 [ Lab Report 4 ](reports/lab-report-4-week-8.html)
 
 ## Author
