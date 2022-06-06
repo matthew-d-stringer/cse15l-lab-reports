@@ -12,6 +12,8 @@ This is a **test** _index.md_ file!
 
 [ Lab Report 4 ](reports/lab-report-4-week-8.html)
 
+[ Lab Report 5 ](reports/lab-report-5-week-10.html)
+
 ## Author
 
 This page is written by Matthew Stringer of UCSD.
